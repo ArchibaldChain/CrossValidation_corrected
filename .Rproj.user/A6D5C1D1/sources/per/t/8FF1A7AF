@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634422631199.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3452917003",
+    "id" : "8FF1A7AF",
+    "lastKnownWriteTime" : 1635630419,
+    "last_content_update" : 1635630419360,
+    "path" : "I:/Programming/R/CVc-master/Black Friday.R",
+    "project_path" : "Black Friday.R",
+    "properties" : {
+        "cursorPosition" : "105,43",
+        "marks" : "<:105,19\n>:105,42",
+        "scrollLine" : "89"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
